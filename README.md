@@ -131,6 +131,6 @@ Arithmetic (গাণিতিক অপারেটর)
 
  Operator 1|Name|Example|Result
 --------------|-------|-----------|-------|
-Row element| Row element| Row element
++| Addition| $x + $y| Sum of $x and $y
 
 </details>
