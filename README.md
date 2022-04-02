@@ -129,8 +129,8 @@ Arithmetic (গাণিতিক অপারেটর)
  + ,  - ,  * ,  / ,  % (Modulus),  ** (Exponentiation)
 
 
- Column 1| Column 2 | Column 3 | Column 4
+ Column 1|Column 2
 --------------|--------------
-Row element|  Row element|  Row element|  Row element
+Row element| Row element
 
 </details>
