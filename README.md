@@ -142,8 +142,8 @@ Arithmetic (গাণিতিক অপারেটর)
 
 * =, +=, -=, *=, /=
 
- Assignment|Same as...|Description|Result
+ Assignment|Same as...|Description
 --------------|-------|-----------|-------|
 x = y| x = y| The left operand gets set to the value of the expression on the right
-
+x += y| x = x + y| Addition
 </details>
