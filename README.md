@@ -5,28 +5,28 @@
    <summary> Click Here </summary>
    1 Github
 
-        <summary> What is Git & Github </summary>
+<summary>  What is Git & Github </summary>
 
 
 
-        Why need Git & Github
+ * Why need Git & Github
 
-        Git bash Downloads & Installation
+ * Git bash Downloads & Installation
 
-        Create an Account on Github
+* Create an Account on Github
 
-        Create project Local to Online
+ * Create project Local to Online
 
-        Create Project Online
+* Create Project Online
 
-        How to fork any github project from another account.
+ * How to fork any github project from another account.
 
-        IDE / Code Editor
+* IDE / Code Editor
 
-        Vs Code Downloads
+* Vs Code Downloads
 
-        Vs Code Editor keyboard shortcuts
+* Vs Code Editor keyboard shortcuts
 
-        Important Package installation
+* Important Package installation
 
 </details>
