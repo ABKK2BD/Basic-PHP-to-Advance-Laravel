@@ -82,7 +82,7 @@ Alignment
 
 - Power of php
 
- Environment setup, Code Structure & Run Code
+ *Environment setup, Code Structure & Run Code*
 
 - Server setup
 
@@ -114,4 +114,22 @@ Alignment
 - Compound (যৌগিক) data types - (Array, Object)
 
 - Null, Resource
+</details>
+
+## Class 3
+
+<details> 
+
+<summary> Click Here </summary>
+
+* Operators and its types in php
+
+Arithmetic (গাণিতিক অপারেটর) 
+
+ + ,  - ,  * ,  / ,  % (Modulus),  ** (Exponentiation)
+
+ Column 1|Column 2 |Column 3 |Column 4
+--------------|--------------
+Row element| Row element| Row element| Row element
+
 </details>
