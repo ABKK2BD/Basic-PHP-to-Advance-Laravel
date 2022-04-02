@@ -28,6 +28,7 @@
 * Important Package installation
 ### Resorce
 <details>
+<summary>Resorce </summary>
     From the very beginning, we have to know about git & github to showcase our daily practice and work for future use.
 
 And secondly we have to know about vs keyboard shortcuts to save our time in coding, and install essential packages for extra facilities in vs code.
