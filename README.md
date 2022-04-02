@@ -7,7 +7,7 @@
 
 <summary>  What is Git & Github </summary>
 
-
+While Git is a tool that's used to manage multiple versions of source code edits that are then transferred to files in a Git repository, GitHub serves as a location for uploading copies of a Git repository.
 
  * Why need Git & Github
 
