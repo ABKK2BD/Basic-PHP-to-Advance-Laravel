@@ -69,7 +69,47 @@ Alignment
     </details>
 
 </details>
-##  Class 02
+
 <details> 
-    ddddd
+    <summary> Click Here </summary>
+1 PHP Language.
+
+History of php
+
+How does php work
+
+Power of php
+
+Environment setup, Code Structure & Run Code
+
+Server setup
+
+Code syntax & run code 
+
+How to write Php code in html.
+
+Variable
+
+What is Variable?
+
+Declaration rules of common variables.
+
+Declaration rules of Constant variables.
+
+Different between variable & constant.
+
+Print Way
+
+Concat string, inverted comma.
+
+echo, Printf, sprintf
+
+Different types of Data types
+
+
+Most commonly used scalar (মৌলিক) data types - (String, Integer, float, Boolean)
+
+Compound (যৌগিক) data types - (Array, Object)
+
+Null, Resource
 </details>
