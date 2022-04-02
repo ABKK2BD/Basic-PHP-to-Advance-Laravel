@@ -26,7 +26,6 @@
 * Vs Code Editor keyboard shortcuts
 
 * Important Package installation
-### Resorce
 <details>
 <summary>Resorce </summary>
     From the very beginning, we have to know about git & github to showcase our daily practice and work for future use.
@@ -67,5 +66,10 @@ And secondly we have to know about vs keyboard shortcuts to save our time in cod
 * Php namespace resolver
 
 Alignment
- </details>
+    </details>
+
+</details>
+##  Class 02
+<details> 
+    ddddd
 </details>
