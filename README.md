@@ -129,9 +129,21 @@ Arithmetic (গাণিতিক অপারেটর)
  + ,  - ,  * ,  / ,  % (Modulus),  ** (Exponentiation)
 
 
- Operator 1|Name|Example|Result
+ Operator|Name|Example|Result
 --------------|-------|-----------|-------|
 +| Addition| $x + $y| Sum of $x and $y
-+| Addition| $x + $y| Sum of $x and $y
+-| Subtraction| $x - $y| Difference of $x and $y
+*| Multiplication| $x * $y| Product of $x and $y
+/| Division| $x / $y| Quotient of $x and $y
+%| Modulus| $x % $y| Remainder of $x divided by $y
+%| Modulus| $x % $y| Remainder of $x divided by $y
+
+* Assignment (নির্ধারণ অপারেটর)
+
+* =, +=, -=, *=, /=
+
+ Assignment|Same as...|Description|Result
+--------------|-------|-----------|-------|
+x = y| x = y| The left operand gets set to the value of the expression on the right
 
 </details>
