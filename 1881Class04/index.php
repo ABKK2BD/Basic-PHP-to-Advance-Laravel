@@ -9,11 +9,6 @@
 	}
 	//Question 02:
 
-	// for ($i=0; $i <=100; $i++) { 
-	// 	if ($i/1) {
-	// 		echo $i;
-	// 	}
-	// }
 	for($i=1; $i<=100; $i++){
 		if($i%2){
 			echo "$i . Is  A Odd Number  " ;
@@ -21,3 +16,11 @@
 		}
 	}
 
+	//Question 03: 
+	//Question 04: 
+
+	$numbers = 1;
+	while($numbers<=100){
+		echo $numbers;
+		$numbers++;
+	}
