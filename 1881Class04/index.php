@@ -17,10 +17,19 @@
 	}
 
 	//Question 03: 
+	$num = 5;
+	$fact = 1;
+	for ($i = $num ;$i> 0;$i--){
+		$fact = $fact * $i; 
+	}
+	echo $fact;
+
+
 	//Question 04: 
 
 	$numbers = 1;
 	while($numbers<=100){
 		echo $numbers;
 		$numbers++;
+		echo "<br> ";
 	}
