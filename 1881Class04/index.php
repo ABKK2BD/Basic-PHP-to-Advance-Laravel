@@ -38,3 +38,21 @@
 
     echo "Sl-1 Product = ". $product [0]. "<br>" . "Sl-2 Product = ". $product [1]. "<br>" . "Sl-3 Product =  ". $product [2]. "<br>" . "Sl-4Product = ". $product [3]. "<br>";
  
+
+
+
+
+	$cars = array (
+
+		array("Volvo",22,18),
+	  
+		array("BMW",15,13),
+	  
+		array("Saab",5,2),
+	  
+		array("Land Rover",17,15)
+	  
+	  
+	);
+
+
